@@ -1,6 +1,3 @@
-Got it! Here's the updated **README.md** with just the line for the MIT license:
-
----
 
 # Banker's Algorithm in C 🖥️💻
 
@@ -139,6 +136,4 @@ The entry point. It takes your input, processes it, and calls `issafe` to check 
 
 This project is under the MIT License.
 
----
 
-Now it's all set with the license mentioned in one line! Let me know if you need anything else! 😊
